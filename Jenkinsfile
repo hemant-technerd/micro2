@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Jenkinsfile'
+                echo 'Jenkinsfile Fix-235'
             }
         }
     }
